@@ -385,7 +385,7 @@ This project uses Stable Diffusion v1.5, which has its own license (CreativeML O
 ## 👤 Getting in Touch
 
 Questions? Issues? Want to chat about the project?
-- Email: intern@talrn.com
+- Email: aastha2212chaurasia@gmail.com
 - When you reach out, include your contact info and when you'd be available to start
 
 ## 🙏 Shoutouts
@@ -396,7 +396,4 @@ Huge thanks to:
 - RunwayML for the model checkpoint
 - Streamlit for making web apps actually doable
 
----
-
-**Quick note**: This was built as part of an internship selection process for Talrn.com. It's a remote unpaid internship (minimum 3 months), but it's been a great way to learn about generative AI and actually build something cool!
 
