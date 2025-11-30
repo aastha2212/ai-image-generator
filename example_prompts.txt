@@ -1,0 +1,48 @@
+# Example Prompts for AI Image Generator
+
+## Photorealistic
+A serene mountain landscape at sunrise, misty valleys, golden hour lighting, highly detailed, professional photography, 4K resolution
+
+A modern minimalist living room with floor-to-ceiling windows, natural lighting, Scandinavian design, architectural photography
+
+Portrait of a professional chef in a modern kitchen, dramatic lighting, shallow depth of field, food photography style
+
+## Artistic Styles
+A futuristic cityscape in the style of cyberpunk art, neon lights, rain-soaked streets, Blade Runner aesthetic, highly detailed
+
+Abstract geometric patterns, bold colors, modern art style, gallery quality, minimalist composition
+
+## Fantasy & Sci-Fi
+Magical forest with glowing mushrooms, fairy lights, ethereal atmosphere, cinematic lighting, highly detailed, fantasy art
+
+Futuristic space station orbiting a distant planet, stars in background, sci-fi concept art, highly detailed, 4K
+
+A dragon flying over a medieval castle at sunset, epic fantasy scene, dramatic clouds, cinematic composition
+
+## Nature & Landscapes
+Tropical beach at sunset, palm trees, turquoise water, golden sand, paradise island, professional travel photography
+
+Snow-covered mountain peak, dramatic clouds, alpine landscape, nature photography, high resolution
+
+Underwater coral reef, colorful fish, tropical marine life, National Geographic style, professional underwater photography
+
+## Animals & Wildlife
+Majestic lion in the African savanna, golden hour, wildlife photography, National Geographic style, highly detailed
+
+Owl perched on a tree branch at night, moonlit scene, wildlife photography, detailed feathers, atmospheric
+
+## Architecture
+Gothic cathedral interior, stained glass windows, dramatic lighting, architectural photography, highly detailed
+
+Modern skyscraper at night, city lights, urban architecture, long exposure photography, professional
+
+Ancient Greek temple ruins, golden hour, historical architecture, travel photography, atmospheric
+
+## Tips for Better Results
+- Be specific about style, mood, and composition
+- Include lighting descriptions (golden hour, studio lighting, etc.)
+- Mention quality terms (highly detailed, 4K, professional)
+- Use negative prompts to exclude unwanted elements
+- Experiment with different guidance scales (7.5-12.0)
+- Try various inference steps (30-70 for balance)
+
